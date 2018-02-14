@@ -5,7 +5,6 @@
   "dependencies": {
     "instagram-stories": "latest",
     "request": "latest",
-    "minimist": "latest",
-    "download-file": "latest"
+    "minimist": "latest"
   }
 }
