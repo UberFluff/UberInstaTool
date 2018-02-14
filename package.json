@@ -1,0 +1,11 @@
+{
+  "name": "UberInstaTool",
+  "version": "0.0.1",
+  "description": "a small tool for instagram",
+  "dependencies": {
+    "instagram-stories": "latest",
+    "request": "latest",
+    "minimist": "latest",
+    "download-file": "latest"
+  }
+}
